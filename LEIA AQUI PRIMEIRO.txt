@@ -1,0 +1,1 @@
+**Para que o programa funcione,salve esta pasta 'cript' no disco local C:**
